@@ -1,0 +1,17 @@
+{
+  "name": "hexlet/code",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shen",
+      "email": "user@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "bin": [
+    "bin/brain-games"
+  ]
+}
